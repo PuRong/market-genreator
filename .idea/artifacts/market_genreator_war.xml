@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="market-genreator:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="market-genreator.war">
+      <element id="artifact" artifact-name="market-genreator:war exploded" />
+    </root>
+  </artifact>
+</component>
